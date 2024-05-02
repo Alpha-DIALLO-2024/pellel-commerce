@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/magasin-de-stock-back/magasin-de-stock-back.iml" filepath="$PROJECT_DIR$/magasin-de-stock-back/magasin-de-stock-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magasin-de-stock-front/magasin-de-stock-front.iml" filepath="$PROJECT_DIR$/magasin-de-stock-front/magasin-de-stock-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pellel-commerce.iml" filepath="$PROJECT_DIR$/pellel-commerce.iml" />
+    </modules>
+  </component>
+</project>
